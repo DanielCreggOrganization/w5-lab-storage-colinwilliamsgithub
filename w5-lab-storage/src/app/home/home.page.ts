@@ -1,4 +1,3 @@
-// src/app/home/home.page.ts
 import { Component } from '@angular/core';
 import { StorageService } from '../services/storage.service';
 import { IonicModule } from '@ionic/angular';
